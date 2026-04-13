@@ -1,0 +1,12 @@
+# Node.js and Next.js standard ignores
+
+node_modules/
+.next/
+.env
+.env.local
+build/
+dist/
+coverage/
+.vscode/
+.DS_Store
+npm-debug.log
